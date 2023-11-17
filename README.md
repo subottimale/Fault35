@@ -2,7 +2,7 @@
 Custom case and plate files for Vault35 pcbs from MechVault (https://mechvault.net/) and community
 <br />
 <br />
-Case is two piece, top mount. Designed for 3DP.
+Case is two piece, top mount. Designed for 3DP. Uses M2 heatset inserts (x8)
 <br />
 <br />
 Plates for Standard, Alpha, Ortho, Treadstone stagger pcb designs
