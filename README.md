@@ -1,5 +1,5 @@
 # Fault35
-Custom case and plate files for Vault35 pcbs from MechVault https://mechvault.net/
+Custom case and plate files for Vault35 pcbs from MechVault (https://mechvault.net/) and community
 <br />
 <br />
 Case is two piece, top mount. Designed for 3DP.
